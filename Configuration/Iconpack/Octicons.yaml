@@ -1,0 +1,27 @@
+iconpack:
+  title: "Octicons"
+  key: "oct"
+  version: 17.10.0
+  url: "https://github.com/primer/octicons"
+
+  renderTypes:
+
+    _default:
+      prefix: "octicons-"
+
+    webfont:
+      css: "EXT:iconpack_octicons/Resources/Public/Vendor/octicons-17.10.0/css/webfont.css"
+      attributes:
+        aria-hidden: "true"
+        role: "img"
+
+    svg:
+      source: "EXT:iconpack_octicons/Resources/Public/Vendor/octicons-17.10.0/svgs/"
+
+    svgInline:
+      source: "EXT:iconpack_octicons/Resources/Public/Vendor/octicons-17.10.0/svgs/"
+      attributes:
+        fill: "currentColor"
+        role: "img"
+
+  icons: "EXT:iconpack_octicons/Resources/Public/Vendor/octicons-17.10.0/metadata/icons.yml"
