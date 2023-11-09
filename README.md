@@ -5,7 +5,6 @@
 
 TYPO3 CMS Extension "iconpack_octicons"
 
-> Note: Since these icons are only available as SVG, it is currently not possible to use them in the CKEditor.
 
 ## What does it do?
 
@@ -25,7 +24,7 @@ This extension contains an icon set of another author. Please note the license t
 
 | Name    | *Octicons*                                                                                  |
 | :------ | :------------------------------------------------------------------------------------------ |
-| Type    | SVG, Webfont                                                                                         |
+| Type    | SVG, Webfont                                                                                |
 | Version | *17.10.0*                                                                                   |
 | Source  | https://github.com/primer/octicons                                                          |
 | License | [MIT](https://opensource.org/licenses/MIT)                                                  |
