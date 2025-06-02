@@ -11,9 +11,6 @@ iconpack:
 
     webfont:
       css: "EXT:iconpack_octicons/Resources/Public/Vendor/octicons-17.10.0/css/webfont.css"
-      attributes:
-        aria-hidden: "true"
-        role: "img"
 
     svg:
       source: "EXT:iconpack_octicons/Resources/Public/Vendor/octicons-17.10.0/svgs/"
@@ -22,6 +19,5 @@ iconpack:
       source: "EXT:iconpack_octicons/Resources/Public/Vendor/octicons-17.10.0/svgs/"
       attributes:
         fill: "currentColor"
-        role: "img"
 
   icons: "EXT:iconpack_octicons/Resources/Public/Vendor/octicons-17.10.0/metadata/icons.yml"
